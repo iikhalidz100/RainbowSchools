@@ -1,0 +1,13 @@
+C:\Users\iikha\source\repos\numbers\numbers\bin\Debug\netcoreapp3.1\numbers.exe
+C:\Users\iikha\source\repos\numbers\numbers\bin\Debug\netcoreapp3.1\numbers.deps.json
+C:\Users\iikha\source\repos\numbers\numbers\bin\Debug\netcoreapp3.1\numbers.runtimeconfig.json
+C:\Users\iikha\source\repos\numbers\numbers\bin\Debug\netcoreapp3.1\numbers.runtimeconfig.dev.json
+C:\Users\iikha\source\repos\numbers\numbers\bin\Debug\netcoreapp3.1\numbers.dll
+C:\Users\iikha\source\repos\numbers\numbers\bin\Debug\netcoreapp3.1\numbers.pdb
+C:\Users\iikha\source\repos\numbers\numbers\obj\Debug\netcoreapp3.1\numbers.csproj.AssemblyReference.cache
+C:\Users\iikha\source\repos\numbers\numbers\obj\Debug\netcoreapp3.1\numbers.AssemblyInfoInputs.cache
+C:\Users\iikha\source\repos\numbers\numbers\obj\Debug\netcoreapp3.1\numbers.AssemblyInfo.cs
+C:\Users\iikha\source\repos\numbers\numbers\obj\Debug\netcoreapp3.1\numbers.csproj.CoreCompileInputs.cache
+C:\Users\iikha\source\repos\numbers\numbers\obj\Debug\netcoreapp3.1\numbers.dll
+C:\Users\iikha\source\repos\numbers\numbers\obj\Debug\netcoreapp3.1\numbers.pdb
+C:\Users\iikha\source\repos\numbers\numbers\obj\Debug\netcoreapp3.1\numbers.genruntimeconfig.cache

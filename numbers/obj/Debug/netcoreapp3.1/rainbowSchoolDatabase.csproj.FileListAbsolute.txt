@@ -1,0 +1,12 @@
+C:\Users\iikha\source\repos\numbers\numbers\bin\Debug\netcoreapp3.1\rainbowSchoolDatabase.exe
+C:\Users\iikha\source\repos\numbers\numbers\bin\Debug\netcoreapp3.1\rainbowSchoolDatabase.deps.json
+C:\Users\iikha\source\repos\numbers\numbers\bin\Debug\netcoreapp3.1\rainbowSchoolDatabase.runtimeconfig.json
+C:\Users\iikha\source\repos\numbers\numbers\bin\Debug\netcoreapp3.1\rainbowSchoolDatabase.runtimeconfig.dev.json
+C:\Users\iikha\source\repos\numbers\numbers\bin\Debug\netcoreapp3.1\rainbowSchoolDatabase.dll
+C:\Users\iikha\source\repos\numbers\numbers\bin\Debug\netcoreapp3.1\rainbowSchoolDatabase.pdb
+C:\Users\iikha\source\repos\numbers\numbers\obj\Debug\netcoreapp3.1\rainbowSchoolDatabase.AssemblyInfoInputs.cache
+C:\Users\iikha\source\repos\numbers\numbers\obj\Debug\netcoreapp3.1\rainbowSchoolDatabase.AssemblyInfo.cs
+C:\Users\iikha\source\repos\numbers\numbers\obj\Debug\netcoreapp3.1\rainbowSchoolDatabase.csproj.CoreCompileInputs.cache
+C:\Users\iikha\source\repos\numbers\numbers\obj\Debug\netcoreapp3.1\rainbowSchoolDatabase.dll
+C:\Users\iikha\source\repos\numbers\numbers\obj\Debug\netcoreapp3.1\rainbowSchoolDatabase.pdb
+C:\Users\iikha\source\repos\numbers\numbers\obj\Debug\netcoreapp3.1\rainbowSchoolDatabase.genruntimeconfig.cache
